@@ -1,4 +1,4 @@
-Copyright (c) 2023 Илья Ермаков
+Copyright (c) 2025 Андрей Леонтьев
 
 Terms of use:<br />
 1.) It's permitted to use code fragments of no more than 20% of this product for any purpose without restrictions.<br />
